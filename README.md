@@ -26,7 +26,7 @@
   align-content: center;
   justify-items: center;
   align-items: center;
-  grid-template-columns: repeat(3, auto)
+  grid-template-columns: repeat(3, auto);
 }
 
 .cell {
